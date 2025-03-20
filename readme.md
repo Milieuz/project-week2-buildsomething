@@ -1,10 +1,10 @@
 # Weather App, API Fetching
 
 ## Brief Description:
-- This is a simple website that fetches data from an API based on the zipcode supplied by the user. The website will then return the (1) location, (2) Temp in F and C, (3) the curernt 'condition'.
+- This is a simple website that fetches data from an API based on the zipcode supplied by the user. The website will then return the (1) location, (2) Temp in F and C, (3) the current 'condition'.
 
 ## Why I Chose This Project:
-- I wanted to refamiliarize myself with a simple webiste that utilizes all parts of a modern website (HTML, CSS, and JS).
+- I wanted to refamiliarize myself with a simple website that utilizes all parts of a modern website (HTML, CSS, and JS).
 
 ## Upgrades/Future Changes
 - This API will fetch quite a bit of information, only some of which is rendered here. Further possibilites of data include: 14 day forecast, historical weather, time zone, air quality, wind, etc.
